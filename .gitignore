@@ -1,0 +1,8 @@
+Repro.Web/bin/
+Repro.Web/.vs/
+.vs/
+Repro.Web/obj/
+Repro.TestModule/obj/
+Repro.TestModule/bin/
+SimpleMvc.Web/obj/
+SimpleMvc.Web/bin/

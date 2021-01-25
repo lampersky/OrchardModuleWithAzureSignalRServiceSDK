@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="OrchardCore.Application.Mvc.Targets" Version="1.0.0-rc2-15572" />
+    <PackageReference Include="OrchardCore.Application.Mvc.Targets" Version="1.0.0-rc2-15791" />
   </ItemGroup>
 
   <ItemGroup>
